@@ -79,6 +79,7 @@ Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https:/
 <a src="#"><img align="center" title="Terrafrom" alt="Terrafrom" height="26px" src="./tmp/terraform.png" /></a>
 <a src="#"><img align="center" title="Tenserflow" alt="Tenserflow" height="26px" src="./tmp/tenserflow.png" /></a>
 <a src="#"><img align="center" title="Keras" alt="Keras" height="26px" src="./tmp/keras.png" /></a>
+<a src="#"><img align="center" title="OpenCV" alt="OpenCV" height="26px" src="./tmp/opencv.png" /></a>
 </p>
 </languages>
 <br>
