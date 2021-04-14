@@ -67,15 +67,15 @@ Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https:/
 <img align="center" alt="MsSQL" height="26px" src="./tmp/mssql.svg" />
 <img align="center" alt="Sequelize" height="26px" src="./tmp/sequelize.png" />
 <img align="center" alt="MongoDB" height="26px" src="./tmp/mongodb.png" />
-<img align="center" alt="Mngoose" height="26px" src="./tmp/mongoose.png" />
+<!-- <img align="center" alt="Mngoose" height="26px" src="./tmp/mongoose.png" /> -->
 <img align="center" alt="Elastic Search" height="26px" src="./tmp/elastic_search.svg" />
 <img align="center" alt="Mocha" height="26px" src="./tmp/mocha.png" />
 <img align="center" alt="Chai" height="26px" src="./tmp/chai.png" />
 <img align="center" alt="Jest" height="26px" src="./tmp/jest.png" />
-<img align="center" alt="AWS Dybamo DB" height="26px" src="./tmp/aws-dynamodb.svg" />
+<!-- <img align="center" alt="AWS Dybamo DB" height="26px" src="./tmp/aws-dynamodb.svg" /> -->
 <img align="center" alt="EJS" height="26px" src="./tmp/ejs.png" />
 <img align="center" alt="React" height="26px" src="./tmp/react.png" />
-<img align="center" alt="Casandra DB" height="26px" src="./tmp/casandra.png" />
+<!-- <img align="center" alt="Casandra DB" height="26px" src="./tmp/casandra.png" /> -->
 </samp>
 <br />
 <br />
