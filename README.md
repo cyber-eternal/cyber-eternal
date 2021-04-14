@@ -50,31 +50,31 @@ Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https:/
 <br>
 
 <samp>
-<img align="center" alt="Node JS" height="26px" src="./tmp/nodejs.png" />
-<img align="center" alt="JavaScript" height="26px" src="./tmp/js.png" />
-<img align="center" alt="TypeScript" height="26px" src="./tmp/ts.png" />
-<img align="center" alt="Python" height="26px" src="./tmp/python-logo.png" />
-<img align="center" alt="AWS" height="26px" src="./tmp/aws.png" />
-<img align="center" alt="Lambda" height="26px" src="./tmp/lambda.png" />
-<img align="center" alt="Serverless" height="26px" src="./tmp/serverless.png" />
-<img align="center" alt="Docker" height="26px" src="./tmp/docker.svg" />
-<img align="center" alt="Kubernetes" height="26px" src="./tmp/kubernetes.png" />
-<img align="center" alt="Git" height="26px" src="./tmp/git.png" />
-<img align="center" alt="RabbitMQ" height="26px" src="./tmp/rabbitmq.jpg" />
-<img align="center" alt="SQL" height="26px" src="./tmp/sql.png" />
-<img align="center" alt="PostgreSQL" height="26px" src="./tmp/pgsql.png" />
-<img align="center" alt="MySQL" height="26px" src="./tmp/mysql.png" />
-<img align="center" alt="MsSQL" height="26px" src="./tmp/mssql.svg" />
-<img align="center" alt="Sequelize" height="26px" src="./tmp/sequelize.png" />
-<img align="center" alt="MongoDB" height="26px" src="./tmp/mongodb.png" />
+<img align="center" title="Node.js" alt="Node JS" height="26px" src="./tmp/nodejs.png" />
+<img align="center" title="Javascript" alt="JavaScript" height="26px" src="./tmp/js.png" />
+<img align="center" title="TavaScript" alt="TypeScript" height="26px" src="./tmp/ts.png" />
+<img align="center" title="Python" alt="Python" height="26px" src="./tmp/python-logo.png" />
+<img align="center" title="Amazon Web Services(AWS)" alt="AWS" height="26px" src="./tmp/aws.png" />
+<img align="center" title="Lambda" alt="Lambda" height="26px" src="./tmp/lambda.png" />
+<img align="center" title="Serverless" alt="Serverless" height="26px" src="./tmp/serverless.png" />
+<img align="center" title="Docker" alt="Docker" height="26px" src="./tmp/docker.svg" />
+<img align="center" title="Kubernetes" alt="Kubernetes" height="26px" src="./tmp/kubernetes.png" />
+<img align="center" title="Git" alt="Git" height="26px" src="./tmp/git.png" />
+<img align="center" title="RabbitMQ" alt="RabbitMQ" height="26px" src="./tmp/rabbitmq.jpg" />
+<img align="center" title="SQL" alt="SQL" height="26px" src="./tmp/sql.png" />
+<img align="center" title="PostgreSQL" alt="PostgreSQL" height="26px" src="./tmp/pgsql.png" />
+<img align="center" title="MySQL" alt="MySQL" height="26px" src="./tmp/mysql.png" />
+<img align="center" title="MsSQL" alt="MsSQL" height="26px" src="./tmp/mssql.svg" />
+<img align="center" title="Sequelize" alt="Sequelize" height="26px" src="./tmp/sequelize.png" />
+<img align="center" title="MongoDB" alt="MongoDB" height="26px" src="./tmp/mongodb.png" />
 <!-- <img align="center" alt="Mngoose" height="26px" src="./tmp/mongoose.png" /> -->
-<img align="center" alt="Elastic Search" height="26px" src="./tmp/elastic_search.svg" />
-<img align="center" alt="Mocha" height="26px" src="./tmp/mocha.png" />
-<img align="center" alt="Chai" height="26px" src="./tmp/chai.png" />
-<img align="center" alt="Jest" height="26px" src="./tmp/jest.png" />
+<img align="center" title="Elastic Search" alt="Elastic Search" height="26px" src="./tmp/elastic_search.svg" />
+<img align="center" title="Mocha" alt="Mocha" height="26px" src="./tmp/mocha.png" />
+<img align="center" title="Chai" alt="Chai" height="26px" src="./tmp/chai.png" />
+<img align="center" title="Jest" alt="Jest" height="26px" src="./tmp/jest.png" />
 <!-- <img align="center" alt="AWS Dybamo DB" height="26px" src="./tmp/aws-dynamodb.svg" /> -->
-<img align="center" alt="EJS" height="26px" src="./tmp/ejs.png" />
-<img align="center" alt="React" height="26px" src="./tmp/react.png" />
+<img align="center" title="EJS" alt="EJS" height="26px" src="./tmp/ejs.png" />
+<img align="center" title="React" alt="React" height="26px" src="./tmp/react.png" />
 <!-- <img align="center" alt="Casandra DB" height="26px" src="./tmp/casandra.png" /> -->
 </samp>
 <br />
