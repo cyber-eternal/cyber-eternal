@@ -6,7 +6,7 @@
   </samp>
 </p>
 
-<details align="center">
+<details align="center" style="font-size: 18px">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
  <p style="width: 70%; text-align: center; margin: auto">
@@ -29,12 +29,33 @@ Feel free to contact me and have a nice day!
 
 <img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&&show_owner=true"></img><br>
 Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://cyber-eternal.github.io/src/Kevin_Cui_Resume.pdf">Resume</a><br><br>
+</samp>
+
+  </p>
+</details>
+
+<br>
+<br>
+<p align="center">
 <a href="https://github.com/cyber-eternal?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white&color=red"></a>
 <a href="https://github.com/cyber-eternal" target="_blank"><img alt="cyber-eternal" src="https://badges.pufler.dev/visits/cyber-eternal/cyber-eternal?logo=GitHub&label=Visits&color=darkgreen&logoColor=white&style=flat-square"/></a>
 <a href="https://github.com/cyber-eternal/cyber-eternal" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/cyber-eternal/cyber-eternal?label=Profile%20Updated&style=flat-square&color=darkgreen"></a>
+</p>
+
+<!-- <languages>
+<p align="center">
+<br>
+════════<br>
+ <samp>Languages and Technologies</samp></p>
+<br>
+
+<samp>
+<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </samp>
-  </p>
-</details>
+<br />
+<br />
+</languages> -->
+
 <samp>
   <p align="center">
     ════════<br>
