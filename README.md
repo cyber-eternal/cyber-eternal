@@ -34,14 +34,6 @@ Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https:/
   </p>
 </details>
 
-<br>
-<br>
-<p align="center">
-<a href="https://github.com/cyber-eternal?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white&color=red"></a>
-<a href="https://github.com/cyber-eternal" target="_blank"><img alt="cyber-eternal" src="https://badges.pufler.dev/visits/cyber-eternal/cyber-eternal?logo=GitHub&label=Visits&color=darkgreen&logoColor=white&style=flat-square"/></a>
-<a href="https://github.com/cyber-eternal/cyber-eternal" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/cyber-eternal/cyber-eternal?label=Profile%20Updated&style=flat-square&color=darkgreen"></a>
-</p>
-
 <languages align="center">
 <p align="center">
 <br>
@@ -49,46 +41,57 @@ Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https:/
  <samp>Languages and Technologies</samp></p>
 <br>
 
-<div>
-<img align="center" title="Node.js" alt="Node JS" height="26px" src="./tmp/nodejs.png" />
-<img align="center" title="Javascript" alt="JavaScript" height="26px" src="./tmp/js.png" />
-<img align="center" title="TavaScript" alt="TypeScript" height="26px" src="./tmp/ts.png" />
-<img align="center" title="Python" alt="Python" height="26px" src="./tmp/python-logo.png" />
-<img align="center" title="Amazon Web Services(AWS)" alt="AWS" height="26px" src="./tmp/aws.png" />
-<img align="center" title="Lambda" alt="Lambda" height="26px" src="./tmp/lambda.png" />
-<img align="center" title="Serverless" alt="Serverless" height="26px" src="./tmp/serverless.png" />
-<img align="center" title="Docker" alt="Docker" height="26px" src="./tmp/docker.svg" />
-<img align="center" title="Kubernetes" alt="Kubernetes" height="26px" src="./tmp/kubernetes.png" />
-<img align="center" title="Git" alt="Git" height="26px" src="./tmp/git.png" />
-<img align="center" title="RabbitMQ" alt="RabbitMQ" height="26px" src="./tmp/rabbitmq.jpg" />
-<img align="center" title="React" alt="React" height="26px" src="./tmp/react.png" />
-<img align="center" title="SQL" alt="SQL" height="26px" src="./tmp/sql.png" />
-</div>
+<p align="center">
+<a src="#"><img align="center" title="Node.js" alt="Node JS" height="26px" src="./tmp/nodejs.png" /></a>
+<a src="#"><img align="center" title="Javascript" alt="JavaScript" height="26px" src="./tmp/js.png" /></a>
+<a src="#"><img align="center" title="TavaScript" alt="TypeScript" height="26px" src="./tmp/ts.png" /></a>
+<a src="#"><img align="center" title="Python" alt="Python" height="26px" src="./tmp/python-logo.png" /></a>
+<a src="#"><img align="center" title="Amazon Web Services(AWS)" alt="AWS" height="26px" src="./tmp/aws.png" /></a>
+<a src="#"><img align="center" title="Lambda" alt="Lambda" height="26px" src="./tmp/lambda.png" /></a>
+<a src="#"><img align="center" title="Serverless" alt="Serverless" height="26px" src="./tmp/serverless.png" /></a>
+<a src="#"><img align="center" title="Express" alt="Express" height="26px" src="./tmp/express.png" /></a>
+<a src="#"><img align="center" title="Nest.js" alt="Nest.js" height="26px" src="./tmp/nestjs.svg" /></a>
+<a src="#"><img align="center" title="Graphql" alt="Graphql" height="26px" src="./tmp/graphql.png" /></a>
+<a src="#"><img align="center" title="Docker" alt="Docker" height="26px" src="./tmp/docker.svg" /></a>
+<a src="#"><img align="center" title="Kubernetes" alt="Kubernetes" height="26px" src="./tmp/kubernetes.png" /></a>
+<a src="#"><img align="center" title="Git" alt="Git" height="26px" src="./tmp/git.png" /></a>
+<a src="#"><img align="center" title="RabbitMQ" alt="RabbitMQ" height="26px" src="./tmp/rabbitmq.jpg" /></a>
+<a src="#"><img align="center" title="React" alt="React" height="26px" src="./tmp/react.png" /></a>
+<a src="#"><img align="center" title="SQL" alt="SQL" height="26px" src="./tmp/sql.png" /></a>
+<a src="#"><img align="center" title="PostgreSQL" alt="PostgreSQL" height="26px" src="./tmp/pgsql.png" /></a>
 <br>
-<div>
-<img align="center" title="PostgreSQL" alt="PostgreSQL" height="26px" src="./tmp/pgsql.png" />
-<img align="center" title="MySQL" alt="MySQL" height="26px" src="./tmp/mysql.png" />
-<img align="center" title="MsSQL" alt="MsSQL" height="26px" src="./tmp/mssql.svg" />
-<img align="center" title="Sequelize ORM" alt="Sequelize" height="26px" src="./tmp/sequelize.png" />
-<img align="center" title="MongoDB" alt="MongoDB" height="26px" src="./tmp/mongodb.png" />
-<img align="center" title="Mongoose ODM" alt="Mongoose" height="26px" src="./tmp/mongoose.png" />
-<img align="center" title="Elastic Search" alt="Elastic Search" height="26px" src="./tmp/elastic_search.svg" />
-<img align="center" title="Mocha" alt="Mocha" height="26px" src="./tmp/mocha.png" />
-<img align="center" title="Chai" alt="Chai" height="26px" src="./tmp/chai.png" />
-<img align="center" title="Jest" alt="Jest" height="26px" src="./tmp/jest.png" />
-<img align="center" title="AWS Dybamo DB" alt="AWS Dybamo DB" height="26px" src="./tmp/aws-dynamodb.svg" />
-<img align="center" title="EJS" alt="EJS" height="26px" src="./tmp/ejs.png" />
-</div>
 <br>
-
-<!-- <img align="center" alt="Casandra DB" height="26px" src="./tmp/casandra.png" /> -->
-<br />
-<br />
+<a src="#"><img align="center" title="MySQL" alt="MySQL" height="26px" src="./tmp/mysql.png" /></a>
+<a src="#"><img align="center" title="MsSQL" alt="MsSQL" height="26px" src="./tmp/mssql.svg" /></a>
+<a src="#"><img align="center" title="MariaDB" alt="MariaBD" height="26px" src="./tmp/mariadb.svg" /></a>
+<a src="#"><img align="center" alt="Casandra DB" height="26px" src="./tmp/casandra.png" /> </a>
+<a src="#"><img align="center" title="Sequelize ORM" alt="Sequelize" height="26px" src="./tmp/sequelize.png" /></a>
+<a src="#"><img align="center" title="MongoDB" alt="MongoDB" height="26px" src="./tmp/mongodb.png" /></a>
+<a src="#"><img align="center" title="Mongoose ODM" alt="Mongoose" height="26px" src="./tmp/mongoose.png" /></a>
+<a src="#"><img align="center" title="AWS Dybamo DB" alt="AWS Dybamo DB" height="26px" src="./tmp/aws-dynamodb.svg" /></a>
+<a src="#"><img align="center" title="Redis" alt="Redis" height="26px" src="./tmp/redis.svg" /></a>
+<a src="#"><img align="center" title="Elastic Search" alt="Elastic Search" height="26px" src="./tmp/elastic_search.svg" /></a>
+<a src="#"><img align="center" title="Mocha" alt="Mocha" height="26px" src="./tmp/mocha.png" /></a>
+<a src="#"><img align="center" title="Chai" alt="Chai" height="26px" src="./tmp/chai.png" /></a>
+<a src="#"><img align="center" title="Jest" alt="Jest" height="26px" src="./tmp/jest.png" /></a>
+<a src="#"><img align="center" title="EJS" alt="EJS" height="26px" src="./tmp/ejs.png" /></a>
+<a src="#"><img align="center" title="Jenkins" alt="Jenkins" height="26px" src="./tmp/jenkins.png" /></a>
+<a src="#"><img align="center" title="Terrafrom" alt="Terrafrom" height="26px" src="./tmp/terraform.png" /></a>
+<a src="#"><img align="center" title="Tenserflow" alt="Tenserflow" height="26px" src="./tmp/tenserflow.png" /></a>
+<a src="#"><img align="center" title="Keras" alt="Keras" height="26px" src="./tmp/keras.png" /></a>
+</p>
 </languages>
+<br>
 
 <samp>
   <p align="center">
     ════════<br>
     From <a href="https://github.com/cyber-eternal/cyber-eternal">Cyber Eternal</a>
   </p>
+
+  <p align="center">
+<a href="https://github.com/cyber-eternal?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white&color=red"></a>
+<a href="https://github.com/cyber-eternal" target="_blank"><img alt="cyber-eternal" src="https://badges.pufler.dev/visits/cyber-eternal/cyber-eternal?logo=GitHub&label=Visits&color=darkgreen&logoColor=white&style=flat-square"/></a>
+<a href="https://github.com/cyber-eternal/cyber-eternal" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/cyber-eternal/cyber-eternal?label=Profile%20Updated&style=flat-square&color=darkgreen"></a>
+</p>
 </samp>
