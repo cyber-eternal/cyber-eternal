@@ -21,17 +21,17 @@ Feel free to contact me and have a nice day!
 <br>
 
 <a href="https://github.com/cyber-eternal?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-<a href="https://github.com/cyber-eternal?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
-<a href="https://github.com/cyber-eternal?tab=repositories&language=typescript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript%2B%2B-f34b7d?style=flat-square&logo=TypeScript&logoColor=white&color=green"></a>
-<a href="https://github.com/cyber-eternal?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
+<a href="https://github.com/cyber-eternal?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=black"></a>
+<a href="https://github.com/cyber-eternal?tab=repositories&language=typescript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript%2B%2B-f34b7d?style=flat-square&logo=TypeScript&logoColor=white&color=darkgreen"></a>
+<a href="https://github.com/cyber-eternal?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=yellow"></a>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&&show_owner=true&include_all_commits=true"></img><br>
+<img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&&show_owner=true"></img><br>
 Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://cyber-eternal.github.io/src/Kevin_Cui_Resume.pdf">Resume</a><br><br>
-<a href="https://github.com/cyber-eternal?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-<a href="https://github.com/cyber-eternal" target="_blank"><img alt="cyber-eternal" src="https://badges.pufler.dev/visits/cyber-eternal/cyber-eternal?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-<a href="https://github.com/cyber-eternal/cyber-eternal" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/cyber-eternal/cyber-eternal?label=Profile%20Updated&style=flat-square"></a>
+<a href="https://github.com/cyber-eternal?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white&color=red"></a>
+<a href="https://github.com/cyber-eternal" target="_blank"><img alt="cyber-eternal" src="https://badges.pufler.dev/visits/cyber-eternal/cyber-eternal?logo=GitHub&label=Visits&color=darkgreen&logoColor=white&style=flat-square"/></a>
+<a href="https://github.com/cyber-eternal/cyber-eternal" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/cyber-eternal/cyber-eternal?label=Profile%20Updated&style=flat-square&color=darkgreen"></a>
 </samp>
   </p>
 </details>
