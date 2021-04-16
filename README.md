@@ -28,7 +28,7 @@ Feel free to contact me and have a nice day!
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&&show_owner=true"></img><br>
-Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://cyber-eternal.github.io/src/Kevin_Cui_Resume.pdf">Resume</a><br><br>
+Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://cyber-eternal.github.io/src/cv/EdgarSargsyan'sCV.pdf">Resume</a><br><br>
 </samp>
 
   </p>
