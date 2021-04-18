@@ -28,7 +28,6 @@ Feel free to contact me and have a nice day!
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&&show_owner=true"></img><br>
-Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://cyber-eternal.github.io/src/cv/EdgarSargsyan's_CV.pdf">Resume</a><br><br>
 </samp>
 
   </p>
@@ -84,8 +83,12 @@ Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https:/
 </languages>
 <br>
 
+
 <samp>
+ 
   <p align="center">
+  ════════<br><br>
+   Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://cyber-eternal.github.io/src/cv/EdgarSargsyan's_CV.pdf">Resume</a><br><br>
     ════════<br>
     From <a href="https://github.com/cyber-eternal/cyber-eternal">Cyber Eternal</a>
   </p>
