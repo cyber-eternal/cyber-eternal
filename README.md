@@ -28,8 +28,6 @@ Feel free to contact me and have a nice day!
 <a href="https://github.com/cyber-eternal?tab=repositories&language=dockerfile" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=blue"></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&hide_title=true"></img>
-<br>
-<br>
 </samp>
 
   </p>
@@ -84,7 +82,6 @@ Feel free to contact me and have a nice day!
 </p>
 </languages> -->
 
-</br>
 
 <samp>
  
