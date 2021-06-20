@@ -54,27 +54,27 @@ Feel free to contact me and have a nice day!
 <a src="#"><img align="center" title="Lambda" alt="Lambda" height="26px" src="./tmp/lambda.png" /></a>
 <a src="#"><img align="center" title="Serverless" alt="Serverless" height="26px" src="./tmp/serverless.png" /></a>
 <a src="#"><img align="center" title="Express" alt="Express" height="26px" src="./tmp/express.png" /></a>
-<a src="#"><img align="center" title="Nest.js" alt="Nest.js" height="26px" src="./tmp/nestjs.svg" /></a>
+<a src="#"><img align="center" title="Nest.js" alt="Nest.js" height="26px" width="26px" src="./tmp/nestjs.svg" /></a>
 <a src="#"><img align="center" title="Graphql" alt="Graphql" height="26px" src="./tmp/graphql.png" /></a>
-<a src="#"><img align="center" title="Docker" alt="Docker" height="26px" src="./tmp/docker.svg" /></a>
+<a src="#"><img align="center" title="Docker" alt="Docker" height="26px" width="26px" src="./tmp/docker.svg" /></a>
 <a src="#"><img align="center" title="Kubernetes" alt="Kubernetes" height="26px" src="./tmp/kubernetes.png" /></a>
 <a src="#"><img align="center" title="Git" alt="Git" height="26px" src="./tmp/git.png" /></a>
 <a src="#"><img align="center" title="RabbitMQ" alt="RabbitMQ" height="26px" src="./tmp/rabbitmq.jpg" /></a>
-<a src="#"><img align="center" title="React" alt="React" height="26px" src="./tmp/react.png" /></a>
+<a src="#"><img align="center" title="React" alt="React" height="26px" width="26px" src="./tmp/react.png" /></a>
 <a src="#"><img align="center" title="SQL" alt="SQL" height="26px" src="./tmp/sql.png" /></a>
 <a src="#"><img align="center" title="PostgreSQL" alt="PostgreSQL" height="26px" src="./tmp/pgsql.png" /></a>
 <br>
 <br>
 <a src="#"><img align="center" title="MySQL" alt="MySQL" height="26px" src="./tmp/mysql.png" /></a>
-<a src="#"><img align="center" title="MsSQL" alt="MsSQL" height="26px" src="./tmp/mssql.svg" /></a>
-<a src="#"><img align="center" title="MariaDB" alt="MariaBD" height="26px" src="./tmp/mariadb.svg" /></a>
-<a src="#"><img align="center" alt="Casandra DB" height="26px" src="./tmp/casandra.png" /> </a>
+<a src="#"><img align="center" title="MsSQL" alt="MsSQL" height="26px" width="26px" src="./tmp/mssql.svg" /></a>
+<a src="#"><img align="center" title="MariaDB" alt="MariaBD" height="26px" width="26px" src="./tmp/mariadb.svg" /></a>
+<a src="#"><img align="center" alt="Casandra DB" height="26px" width="26px" src="./tmp/casandra.png" /> </a>
 <a src="#"><img align="center" title="Sequelize ORM" alt="Sequelize" height="26px" src="./tmp/sequelize.png" /></a>
 <a src="#"><img align="center" title="MongoDB" alt="MongoDB" height="26px" src="./tmp/mongodb.png" /></a>
 <a src="#"><img align="center" title="Mongoose ODM" alt="Mongoose" height="26px" src="./tmp/mongoose.png" /></a>
-<a src="#"><img align="center" title="AWS Dybamo DB" alt="AWS Dybamo DB" height="26px" src="./tmp/aws-dynamodb.svg" /></a>
-<a src="#"><img align="center" title="Redis" alt="Redis" height="26px" src="./tmp/redis.svg" /></a>
-<a src="#"><img align="center" title="Elastic Search" alt="Elastic Search" height="26px" src="./tmp/elastic_search.svg" /></a>
+<a src="#"><img align="center" title="AWS Dynamo DB" alt="AWS Dynamo DB" height="26px" width="26px" src="./tmp/aws-dynamodb.svg" /></a>
+<a src="#"><img align="center" title="Redis" alt="Redis" height="26px" width="26px" src="./tmp/redis.svg" /></a>
+<a src="#"><img align="center" title="Elastic Search" alt="Elastic Search" height="26px" width="26px" src="./tmp/elastic_search.svg" /></a>
 <a src="#"><img align="center" title="Mocha" alt="Mocha" height="26px" src="./tmp/mocha.png" /></a>
 <a src="#"><img align="center" title="Chai" alt="Chai" height="26px" src="./tmp/chai.png" /></a>
 <a src="#"><img align="center" title="Jest" alt="Jest" height="26px" src="./tmp/jest.png" /></a>
