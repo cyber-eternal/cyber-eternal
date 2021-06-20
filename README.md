@@ -1,17 +1,18 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://cyber-eternal.github.io/">Edgar Sargsyan</a></b></samp></h3>
+<h3 align="center" style="font-size: 18px"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://cyber-eternal.github.io/">Edgar Sargsyan</a></b></samp></h3>
 
 <p align="center"><br>
-  <samp>
+  <samp style="font-size: 18px">
     「 Back End Software Engineer || Cloud Solution Architect 」<br>
   </samp>
 </p>
 
-<details align="center" style="font-size: 18px">
-   <summary> <samp>&#9776; Details</samp></summary>
+<div align="center" style="font-size: 15px">
+   <!-- <summary> <samp>&#9776; Details</samp></summary> -->
    <p align="center">
  <p style="width: 70%; text-align: center; margin: auto">
 I'm Back End Software Engineer and Cloud Solution Architect. My aim is not only to establish coding but also to provide relevant and clear-cut coding methods that are implemented in order to attain the most efficient coding system possible, writing of the high-performance code, increasing code coverage by unit and integration tests, saving time and resources for wasting, acceleration of releases, hardworking, team management, decision making, and problem-solving, strong communication and collaboration, I'm able to motivate and lead others in a team environment, to work in a team, and in stressful situations.
 
+<br>
 <br>
 
 Feel free to contact me and have a nice day!
@@ -27,17 +28,21 @@ Feel free to contact me and have a nice day!
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&&show_owner=true"></img><br>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&&show_owner=true"></img>
+<br>
+<br>
 Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://cyber-eternal.github.io/src/cv/EdgarSargsyan's_CV.pdf">Resume</a><br><br>
 </samp>
 
   </p>
-</details>
+  
+</div>
 
 <languages align="center">
 <p align="center">
-<br>
-════════<br>
+════════<br><br>
  <samp>Languages and Technologies</samp></p>
 <br>
 
@@ -82,11 +87,12 @@ Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https:/
 <a src="#"><img align="center" title="OpenCV" alt="OpenCV" height="26px" src="./tmp/opencv.png" /></a>
 </p>
 </languages>
-<br>
+
+</br>
 
 <samp>
   <p align="center">
-    ════════<br>
+    ════════<br><br>
     From <a href="https://github.com/cyber-eternal/cyber-eternal">Cyber Eternal</a>
   </p>
 
