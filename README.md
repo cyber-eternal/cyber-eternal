@@ -87,7 +87,7 @@ Feel free to contact me and have a nice day!
  
   <p align="center">
   ════════<br><br>
-   Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://cyber-eternal.github.io/src/cv/EdgarSargsyan's_CV.pdf">Resume</a><br><br>
+   Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://cyber-eternal.github.io/src/cv/EdgarSargsyan'sCV.pdf">Resume</a><br><br>
     ════════<br>
     From <a href="https://github.com/cyber-eternal/cyber-eternal">Cyber Eternal</a>
   </p>
