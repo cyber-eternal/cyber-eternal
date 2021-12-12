@@ -2,19 +2,29 @@
 
 <p align="center"><br>
   <samp style="font-size: 18px">
-    「 Back End Software Engineer || Cloud Solution Architect 」<br>
+    「 Senior Back End Software Engineer || Cloud Solution Architect 」<br>
   </samp>
 </p>
 
+<details align="center" style="font-size: 18px">
+   <summary> <samp>&#9776; More information</samp></summary>
+
 <div align="center" style="font-size: 15px">
-   <!-- <summary> <samp>&#9776; Details</samp></summary> -->
    <p align="center">
  <p style="width: 70%; text-align: center; margin: auto">
-I'm Back End Software Engineer and Cloud Solution Architect. My aim is not only to establish coding but also to provide relevant and clear-cut coding methods that are implemented in order to attain the most efficient coding system possible, writing of the high-performance code, increasing code coverage by unit and integration tests, saving time and resources for wasting, acceleration of releases, hardworking, team management, decision making, and problem-solving, strong communication and collaboration, I'm able to motivate and lead others in a team environment, to work in a team, and in stressful situations.
-
-<br>
+I'm Senor Back End Software Engineer and Cloud Solution Architect. My aim is not only to establish coding but also to provide relevant and clear-cut coding methods that are implemented in order to attain the most efficient coding system possible, writing of the high-performance code, increasing code coverage by unit and integration tests, saving time and resources for wasting, acceleration of releases, hardworking, team management, decision making, and problem-solving, strong communication and collaboration, I'm able to motivate and lead others in a team environment, to work in a team, and in stressful situations.
 <br>
 
+</p>
+
+<p style="font-size: 13px"><a href="https://cyber-eternal.github.io/">Personal Website</a></p>
+<p style="font-size: 13px"><a href="https://www.linkedin.com/in/edgarsargsyan/"><img style="width: 10%" src="./tmp/linkedin.svg"></a></p>
+<p style="font-size: 13px"><a href="https://stackoverflow.com/users/11646401/cybereternal?tab=profile"> 
+<img  style="width: 10%" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg"> </a></p>
+<p style="font-size: 13px"><a href="https://www.upwork.com/freelancers/~0132a93268ec804fb8"><img  style="width: 10%" src="./tmp/upwork.svg"> </a></a></p>
+
+<br>
+<p>
 Feel free to contact me and have a nice day!
 
   </p>
@@ -27,12 +37,13 @@ Feel free to contact me and have a nice day!
 <a href="https://github.com/cyber-eternal?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=yellow"></a>
 <a href="https://github.com/cyber-eternal?tab=repositories&language=dockerfile" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=blue"></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&hide_title=true"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&hide_title=true&hide_rank=false"></img>
 </samp>
 
   </p>
   
 </div>
+</details>
 
 <!-- <languages align="center">
 <p align="center">
@@ -81,7 +92,6 @@ Feel free to contact me and have a nice day!
 <a src="#"><img align="center" title="OpenCV" alt="OpenCV" height="26px" src="./tmp/opencv.png" /></a>
 </p>
 </languages> -->
-
 
 <samp>
  
