@@ -12,7 +12,7 @@
 <div align="center" style="font-size: 15px">
    <p align="center">
  <p style="width: 70%; text-align: center; margin: auto">
-I'm Senor Back End Software Engineer and Cloud Solution Architect. My aim is not only to establish coding but also to provide relevant and clear-cut coding methods that are implemented in order to attain the most efficient coding system possible, writing of the high-performance code, increasing code coverage by unit and integration tests, saving time and resources for wasting, acceleration of releases, hardworking, team management, decision making, and problem-solving, strong communication and collaboration, I'm able to motivate and lead others in a team environment, to work in a team, and in stressful situations.
+I'm a Senor Back End Engineer and Cloud Solution Architect. My aim is not only to establish coding but also to provide relevant and clear-cut coding methods that are implemented in order to attain the most efficient coding system possible, writing of the high-performance code, increasing code coverage by unit and integration tests, saving time and resources for wasting, acceleration of releases, hardworking, team management, decision making, and problem-solving, strong communication and collaboration, I'm able to motivate and lead others in a team environment, to work in a team, and in stressful situations.
 <br>
 
 </p>
