@@ -12,16 +12,16 @@
 <div align="center" style="font-size: 15px">
    <p align="center">
  <p style="width: 70%; text-align: center; margin: auto">
-I'm Senor Back End Software Engineer and Cloud Solution Architect. My aim is not only to establish coding but also to provide relevant and clear-cut coding methods that are implemented in order to attain the most efficient coding system possible, writing of the high-performance code, increasing code coverage by unit and integration tests, saving time and resources for wasting, acceleration of releases, hardworking, team management, decision making, and problem-solving, strong communication and collaboration, I'm able to motivate and lead others in a team environment, to work in a team, and in stressful situations.
+I'm a Senor Back End Software Engineer and Cloud Solution Architect. My aim is not only to establish coding but also to provide relevant and clear-cut coding methods that are implemented in order to attain the most efficient coding system possible, writing of the high-performance code, increasing code coverage by unit and integration tests, saving time and resources for wasting, acceleration of releases, hardworking, team management, decision making, and problem-solving, strong communication and collaboration, I'm able to motivate and lead others in a team environment, to work in a team, and in stressful situations.
 <br>
 
 </p>
-
-<p style="font-size: 13px"><a href="https://cyber-eternal.github.io/">Personal Website</a></p>
-<p style="font-size: 13px"><a href="https://www.linkedin.com/in/edgarsargsyan/"><img style="width: 10%" src="./tmp/linkedin.svg"></a></p>
-<p style="font-size: 13px"><a href="https://stackoverflow.com/users/11646401/cybereternal?tab=profile"> 
-<img  style="width: 10%" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg"> </a></p>
-<p style="font-size: 13px"><a href="https://www.upwork.com/freelancers/~0132a93268ec804fb8"><img  style="width: 10%" src="./tmp/upwork.svg"> </a></a></p>
+</br></br>
+<span style="font-size: 13px"><a href="https://cyber-eternal.github.io/"><img style="width: 2%; margin-top: 5px" src="./tmp/business-registration.png" alt="Personal Website"></a></span>
+<span style="font-size: 13px"><a href="https://www.linkedin.com/in/edgarsargsyan/"><img style="width: 5%; margin:5px" src="./tmp/linkedin.svg" alt="linkedin"></a></span>
+<span style="font-size: 13px"><a href="https://stackoverflow.com/users/11646401/cybereternal?tab=profile"> 
+<img  style="width: 5%; margin:5px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="stackoverflow"> </a></span>
+<span style="font-size: 13px"><a href="https://www.upwork.com/freelancers/~0132a93268ec804fb8"><img  style="width: 5%; margin:5px" src="./tmp/upwork.svg" alt="upwork"> </a></span>
 
 <br>
 <p>
