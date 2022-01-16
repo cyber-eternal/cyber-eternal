@@ -16,12 +16,6 @@ I'm a Senor Back End Engineer and Cloud Solution Architect. My aim is not only t
 <br>
 
 </p>
-</br></br>
-<span style="font-size: 13px"><a href="https://cyber-eternal.github.io/"><img style="width: 2%; margin-top: 5px" src="./tmp/business-registration.png" alt="Personal Website"></a></span>
-<span style="font-size: 13px"><a href="https://www.linkedin.com/in/edgarsargsyan/"><img style="width: 5%; margin:5px" src="./tmp/linkedin.svg" alt="linkedin"></a></span>
-<span style="font-size: 13px"><a href="https://stackoverflow.com/users/11646401/cybereternal?tab=profile"> 
-<img  style="width: 5%; margin:5px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="stackoverflow"> </a></span>
-<span style="font-size: 13px"><a href="https://www.upwork.com/freelancers/~0132a93268ec804fb8"><img  style="width: 5%; margin:5px" src="./tmp/upwork.svg" alt="upwork"> </a></span>
 
 <br>
 <p>
