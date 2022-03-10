@@ -1,4 +1,4 @@
-<h3 align="center" style="font-size: 18px"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://cyber-eternal.github.io/">Edgar Sargsyan</a></b></samp></h3>
+<h3 align="center" style="font-size: 18px"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://sargsyan.dev/">Edgar Sargsyan</a></b></samp></h3>
 
 <p align="center"><br>
   <samp style="font-size: 18px">
