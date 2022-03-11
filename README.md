@@ -1,3 +1,26 @@
+
+<a href="https://discord.com/users/745248986319028295">
+  <img align="left" style="margin: 10px" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/cybereternal">
+  <img align="left" style="margin: 10px" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/edgarsargsyan/">
+  <img align="left" style="margin: 10px" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://stackoverflow.com/users/11646401/cybereternal">
+  <img align="left" style="margin: 10px" alt="Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" />
+</a>
+<a href="https://www.upwork.com/freelancers/~0132a93268ec804fb8">
+  <img align="left" style="margin: 10px" alt="Upwork" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/upwork-3629131-3030271.png" />
+</a>
+<a href="mailto:edgar@sargsyan.dev">
+  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/social-gmail.svg" style="margin: 10px" height="22px" />
+</a>
+<!-- <a href="">
+  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a> -->
+
 <h3 align="center" style="font-size: 18px"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://sargsyan.dev/">Edgar Sargsyan</a></b></samp></h3>
 
 <p align="center"><br>
