@@ -6,8 +6,13 @@
   </samp>
 </p>
 
-<details align="center" style="font-size: 18px">
-   <summary> <samp>&#9776; More information</samp></summary>
+
+
+
+
+
+<!-- <details align="center" style="font-size: 18px">
+   <summary> <samp>&#9776; More information</samp></summary> -->
 
 <div align="center" style="font-size: 15px">
    <p align="center">
@@ -31,13 +36,18 @@ Feel free to contact me and have a nice day!
 <a href="https://github.com/cyber-eternal?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=yellow"></a>
 <a href="https://github.com/cyber-eternal?tab=repositories&language=dockerfile" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=blue"></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&hide_title=true&hide_rank=false"></img>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&hide_title=true&hide_rank=false"></img> -->
+
+![](https://raw.githubusercontent.com/cyber-eternal/github-stats/master/generated/overview.svg) ![](https://raw.githubusercontent.com/cyber-eternal/github-stats/master/generated/languages.svg)
+
+
+
 </samp>
 
   </p>
   
 </div>
-</details>
+<!-- </details> -->
 
 <!-- <languages align="center">
 <p align="center">
