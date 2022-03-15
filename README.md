@@ -1,4 +1,3 @@
-
 <a href="https://discord.com/users/745248986319028295" target="_blank">
   <img align="left" style="margin: 10px" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -34,14 +33,6 @@
   </samp>
 </p>
 
-
-
-
-
-
-<!-- <details align="center" style="font-size: 18px">
-   <summary> <samp>&#9776; More information</samp></summary> -->
-
 <div align="center" style="font-size: 15px">
    <p align="center">
  <p style="width: 70%; text-align: center; margin: auto">
@@ -58,75 +49,25 @@ Feel free to contact me and have a nice day!
 
 <br>
 
-<a href="https://github.com/cyber-eternal?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-<a href="https://github.com/cyber-eternal?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=black"></a>
-<a href="https://github.com/cyber-eternal?tab=repositories&language=typescript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-f34b7d?style=flat-square&logo=TypeScript&logoColor=white&color=darkgreen"></a>
-<a href="https://github.com/cyber-eternal?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=yellow"></a>
-<a href="https://github.com/cyber-eternal?tab=repositories&language=dockerfile" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=blue"></a>
+<details align="center" style="font-size: 18px">
+   <summary> <samp>&#9776; Languages and Tools</samp></summary>
+<br>
+<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+</details>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&hide_title=true&hide_rank=false"></img> -->
 
 ![](https://raw.githubusercontent.com/cyber-eternal/github-stats/master/generated/overview.svg) ![](https://raw.githubusercontent.com/cyber-eternal/github-stats/master/generated/languages.svg)
-
-
 
 </samp>
 
   </p>
   
 </div>
-<!-- </details> -->
-
-<!-- <languages align="center">
-<p align="center">
-════════<br><br>
- <samp>Languages and Technologies</samp></p>
-<br>
-
-<p align="center">
-<a src="#"><img align="center" title="Node.js" alt="Node JS" height="26px" src="./tmp/nodejs.png" /></a>
-<a src="#"><img align="center" title="Javascript" alt="JavaScript" height="26px" src="./tmp/js.png" /></a>
-<a src="#"><img align="center" title="TavaScript" alt="TypeScript" height="26px" src="./tmp/ts.png" /></a>
-<a src="#"><img align="center" title="Python" alt="Python" height="26px" src="./tmp/python-logo.png" /></a>
-<a src="#"><img align="center" title="Amazon Web Services(AWS)" alt="AWS" height="26px" src="./tmp/aws.png" /></a>
-<a src="#"><img align="center" title="Lambda" alt="Lambda" height="26px" src="./tmp/lambda.png" /></a>
-<a src="#"><img align="center" title="Serverless" alt="Serverless" height="26px" src="./tmp/serverless.png" /></a>
-<a src="#"><img align="center" title="Express" alt="Express" height="26px" src="./tmp/express.png" /></a>
-<a src="#"><img align="center" title="Nest.js" alt="Nest.js" height="26px" width="26px" src="./tmp/nestjs.svg" /></a>
-<a src="#"><img align="center" title="Graphql" alt="Graphql" height="26px" src="./tmp/graphql.png" /></a>
-<a src="#"><img align="center" title="Docker" alt="Docker" height="26px" width="26px" src="./tmp/docker.svg" /></a>
-<a src="#"><img align="center" title="Kubernetes" alt="Kubernetes" height="26px" src="./tmp/kubernetes.png" /></a>
-<a src="#"><img align="center" title="Git" alt="Git" height="26px" src="./tmp/git.png" /></a>
-<a src="#"><img align="center" title="RabbitMQ" alt="RabbitMQ" height="26px" src="./tmp/rabbitmq.jpg" /></a>
-<a src="#"><img align="center" title="React" alt="React" height="26px" width="26px" src="./tmp/react.png" /></a>
-<a src="#"><img align="center" title="SQL" alt="SQL" height="26px" src="./tmp/sql.png" /></a>
-<a src="#"><img align="center" title="PostgreSQL" alt="PostgreSQL" height="26px" src="./tmp/pgsql.png" /></a>
-<br>
-<br>
-<a src="#"><img align="center" title="MySQL" alt="MySQL" height="26px" src="./tmp/mysql.png" /></a>
-<a src="#"><img align="center" title="MsSQL" alt="MsSQL" height="26px" width="26px" src="./tmp/mssql.svg" /></a>
-<a src="#"><img align="center" title="MariaDB" alt="MariaBD" height="26px" width="26px" src="./tmp/mariadb.svg" /></a>
-<a src="#"><img align="center" alt="Casandra DB" height="26px" width="26px" src="./tmp/casandra.png" /> </a>
-<a src="#"><img align="center" title="Sequelize ORM" alt="Sequelize" height="26px" src="./tmp/sequelize.png" /></a>
-<a src="#"><img align="center" title="MongoDB" alt="MongoDB" height="26px" src="./tmp/mongodb.png" /></a>
-<a src="#"><img align="center" title="Mongoose ODM" alt="Mongoose" height="26px" src="./tmp/mongoose.png" /></a>
-<a src="#"><img align="center" title="AWS Dynamo DB" alt="AWS Dynamo DB" height="26px" width="26px" src="./tmp/aws-dynamodb.svg" /></a>
-<a src="#"><img align="center" title="Redis" alt="Redis" height="26px" width="26px" src="./tmp/redis.svg" /></a>
-<a src="#"><img align="center" title="Elastic Search" alt="Elastic Search" height="26px" width="26px" src="./tmp/elastic_search.svg" /></a>
-<a src="#"><img align="center" title="Mocha" alt="Mocha" height="26px" src="./tmp/mocha.png" /></a>
-<a src="#"><img align="center" title="Chai" alt="Chai" height="26px" src="./tmp/chai.png" /></a>
-<a src="#"><img align="center" title="Jest" alt="Jest" height="26px" src="./tmp/jest.png" /></a>
-<a src="#"><img align="center" title="EJS" alt="EJS" height="26px" src="./tmp/ejs.png" /></a>
-<a src="#"><img align="center" title="Jenkins" alt="Jenkins" height="26px" src="./tmp/jenkins.png" /></a>
-<a src="#"><img align="center" title="Terrafrom" alt="Terrafrom" height="26px" src="./tmp/terraform.png" /></a>
-<a src="#"><img align="center" title="Tenserflow" alt="Tenserflow" height="26px" src="./tmp/tenserflow.png" /></a>
-<a src="#"><img align="center" title="Keras" alt="Keras" height="26px" src="./tmp/keras.png" /></a>
-<a src="#"><img align="center" title="OpenCV" alt="OpenCV" height="26px" src="./tmp/opencv.png" /></a>
-</p>
-</languages> -->
 
 <samp>
- 
+
   <p align="center">
   ════════<br><br>
    Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://cyber-eternal.github.io/src/cv/EdgarSargsyan'sCV.pdf">Resume</a><br><br>
