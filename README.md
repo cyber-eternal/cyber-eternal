@@ -58,7 +58,8 @@ Feel free to contact me and have a nice day!
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&hide_title=true&hide_rank=false"></img> -->
 
-![](https://raw.githubusercontent.com/cyber-eternal/github-stats/master/generated/overview.svg) ![](https://raw.githubusercontent.com/cyber-eternal/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/cyber-eternal/github-stats/output/generated/overview.svg) ![](https://raw.githubusercontent.com/cyber-eternal/github-stats/output/generated/languages.svg)
+
 
 </samp>
 
