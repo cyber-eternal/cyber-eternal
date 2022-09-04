@@ -75,8 +75,11 @@ Feel free to contact me and have a nice day!
   </p>
 
   <p align="center">
-<a href="https://github.com/cyber-eternal?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white&color=red"></a>
-<a href="https://github.com/cyber-eternal" target="_blank"><img alt="cyber-eternal" src="https://badges.pufler.dev/visits/cyber-eternal/cyber-eternal?logo=GitHub&label=Visits&color=darkgreen&logoColor=white&style=flat-square"/></a>
-<a href="https://github.com/cyber-eternal/cyber-eternal" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/cyber-eternal/cyber-eternal?label=Profile%20Updated&style=flat-square&color=darkgreen"></a>
+
+
+  
+<!-- <a href="https://github.com/cyber-eternal?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white&color=red"></a> -->
+<!-- <a href="https://github.com/cyber-eternal" target="_blank"><img alt="cyber-eternal" src="https://badges.pufler.dev/visits/cyber-eternal/cyber-eternal?logo=GitHub&label=Visits&color=darkgreen&logoColor=white&style=flat-square"/></a> -->
+<!-- <a href="https://github.com/cyber-eternal/cyber-eternal" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/cyber-eternal/cyber-eternal?label=Profile%20Updated&style=flat-square&color=darkgreen"></a> -->
 </p>
 </samp>
