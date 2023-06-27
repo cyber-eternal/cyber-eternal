@@ -25,7 +25,7 @@
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
 
-<h3 align="center" style="font-size: 18px"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://sargsyan.dev/">Edgar Sargsyan</a></b></samp></h3>
+<h3 align="center" style="font-size: 18px"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://sargsyan.dev/">Edgar</a></b></samp></h3>
 
 <p align="center"><br>
   <samp style="font-size: 18px">
