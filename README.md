@@ -75,11 +75,11 @@ Feel free to contact me and have a nice day!
 
 <samp>
 
-  <p align="center">
+ <!-- <p align="center">
   ════════<br><br>
    Check out my <a rel="nofollow noopener noreferrer" href="https://drive.google.com/file/d/1E-UTNnrdWXd4LF-1h-a2FeZ5fj4Tkx50/view?usp=sharing" target="_blank">Resume</a><br><br>
   </p>
-
+ -->
   <p align="center">
 
 <a href=#><img src="./assets/contributions.svg"></a>
