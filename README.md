@@ -43,7 +43,7 @@
 <div align="center" style="font-size: 15px">
    <p align="center">
  <p style="width: 70%; text-align: center; margin: auto">
-I'm a Senor Back End Engineer and Cloud Solution Architect. My aim is not only to establish coding but also to provide relevant and clear-cut coding methods that are implemented in order to attain the most efficient coding system possible, writing of the high-performance code, increasing code coverage by unit and integration tests, saving time and resources for wasting, acceleration of releases, hardworking, team management, decision making, and problem-solving, strong communication and collaboration, I'm able to motivate and lead others in a team environment, to work in a team, and in stressful situations.
+I'm a Senior Back End Engineer and Cloud Solution Architect. My aim is not only to establish coding but also to provide relevant and clear-cut coding methods that are implemented to attain the most efficient coding system possible, writing of the high-performance code, increasing code coverage by unit and integration tests, saving time and resources for wasting, acceleration of releases, hardworking, team management, decision making, and problem-solving, strong communication and collaboration, I'm able to motivate and lead others in a team environment, to work in a team, and in stressful situations.
 <br>
 
 </p>
@@ -83,11 +83,6 @@ Feel free to contact me and have a nice day!
   <p align="center">
 
 <a href=#><img src="./assets/contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/cyber-eternal/count.svg" />
-</p>
 
 <!-- <a href="https://github.com/cyber-eternal?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white&color=red"></a> -->
 <!-- <a href="https://github.com/cyber-eternal" target="_blank"><img alt="cyber-eternal" src="https://badges.pufler.dev/visits/cyber-eternal/cyber-eternal?logo=GitHub&label=Visits&color=darkgreen&logoColor=white&style=flat-square"/></a> -->
