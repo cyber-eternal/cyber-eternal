@@ -14,10 +14,6 @@
   <img align="left" style="margin: 10px" alt="Stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" />
 </a>
 
-<a href="https://profile.codersrank.io/user/cyber-eternal" target="_blank">
-  <img align="left" style="margin: 10px" alt="Stackoverflow" width="22px" src="https://www.svgrepo.com/show/353585/codersrank.svg" />
-</a>
-
 <a href="https://www.upwork.com/freelancers/~0132a93268ec804fb8" target="_blank">
   <img align="left" style="margin: 10px" alt="Upwork" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/upwork-3629131-3030271.png" />
 </a>
