@@ -1,3 +1,13 @@
+<p align="left">
+  <a href="https://sargsyan.dev/"><img alt="Website" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="./assets/website.svg" /></a>
+  <a href="https://discord.com/users/745248986319028295"><img alt="Discord" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="./assets/discord.svg" /></a>
+  <a href="https://twitter.com/cybereternal"><img alt="Twitter" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="./assets/twitter.svg" /></a>
+  <a href="https://www.linkedin.com/in/edgarsargsyan/"><img alt="LinkedIn" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="./assets/linkedin.svg" /></a>
+  <a href="https://stackoverflow.com/users/11646401/cybereternal"><img alt="Stack Overflow" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="https://cdn.simpleicons.org/stackoverflow/F58025" /></a>
+  <a href="https://www.upwork.com/freelancers/~0132a93268ec804fb8"><img alt="Upwork" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="https://cdn.simpleicons.org/upwork/6FDA44" /></a>
+  <a href="mailto:edgar@sargsyan.dev"><img alt="Email" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
+</p>
+
 <h1 align="center">Edgar Sargsyan</h1>
 
 <p align="center">
@@ -6,16 +16,6 @@
 
 <p align="center">
   I build scalable backend systems, APIs, and data flows that stay reliable under real production traffic.
-</p>
-
-<p align="center">
-  <a href="https://sargsyan.dev/"><img alt="Website" width="24" height="24" style="vertical-align: middle; margin: 0 6px;" src="./assets/website.svg" /></a>
-  <a href="https://discord.com/users/745248986319028295"><img alt="Discord" width="24" height="24" style="vertical-align: middle; margin: 0 6px;" src="./assets/discord.svg" /></a>
-  <a href="https://twitter.com/cybereternal"><img alt="Twitter" width="24" height="24" style="vertical-align: middle; margin: 0 6px;" src="./assets/twitter.svg" /></a>
-  <a href="https://www.linkedin.com/in/edgarsargsyan/"><img alt="LinkedIn" width="24" height="24" style="vertical-align: middle; margin: 0 6px;" src="./assets/linkedin.svg" /></a>
-  <a href="https://stackoverflow.com/users/11646401/cybereternal"><img alt="Stack Overflow" width="24" height="24" style="vertical-align: middle; margin: 0 6px;" src="https://cdn.simpleicons.org/stackoverflow/F58025" /></a>
-  <a href="https://www.upwork.com/freelancers/~0132a93268ec804fb8"><img alt="Upwork" width="24" height="24" style="vertical-align: middle; margin: 0 6px;" src="https://cdn.simpleicons.org/upwork/6FDA44" /></a>
-  <a href="mailto:edgar@sargsyan.dev"><img alt="Email" width="24" height="24" style="vertical-align: middle; margin: 0 6px;" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
 </p>
 
 ```ts
