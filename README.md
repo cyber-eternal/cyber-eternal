@@ -41,7 +41,7 @@ const edgar = {
 ```
 
 <details>
-    <summary style="text-align: center; margin: 14px 0; font-size: 20px;"> <samp>&#9776; More Info</samp></summary>
+    <summary align="center"><samp>&#9776; More Info</samp></summary>
 
 <h3><code><span style="color: #22c55e;">whoami</span></code></h3>
 
