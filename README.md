@@ -3,12 +3,10 @@
   <a href="https://discord.com/users/745248986319028295" target="_blank" rel="noopener noreferrer"><img alt="Discord" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="./assets/discord.svg" /></a>
   <a href="https://twitter.com/cybereternal" target="_blank" rel="noopener noreferrer"><img alt="Twitter" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="./assets/twitter.svg" /></a>
   <a href="https://www.linkedin.com/in/edgarsargsyan/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="./assets/linkedin.svg" /></a>
-  <a href="https://stackoverflow.com/users/11646401/cybereternal" target="_blank" rel="noopener noreferrer"><img alt="Stack Overflow" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="https://cdn.simpleicons.org/stackoverflow/F58025" /></a>
-  <a href="https://www.upwork.com/freelancers/~0132a93268ec804fb8" target="_blank" rel="noopener noreferrer"><img alt="Upwork" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="https://cdn.simpleicons.org/upwork/6FDA44" /></a>
-  <a href="mailto:edgar@sargsyan.dev" target="_blank" rel="noopener noreferrer"><img alt="Email" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
+  <a href="https://stackoverflow.com/users/11646401/cybereternal" target="_blank" rel="noopener noreferrer"><img alt="Stack Overflow" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="./assets/F58025.svg" /></a>
+  <a href="https://www.upwork.com/freelancers/~0132a93268ec804fb8" target="_blank" rel="noopener noreferrer"><img alt="Upwork" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="./assets/6FDA44.svg" /></a>
+  <a href="mailto:edgar@sargsyan.dev" target="_blank" rel="noopener noreferrer"><img alt="Email" width="24" height="24" style="vertical-align: middle; margin: 0 10px 0 0;" src="./assets/EA4335.svg" /></a>
 </p>
-
-
 
 <!-- <a href="">
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
@@ -26,17 +24,17 @@ I build scalable backend systems, APIs, and data flows that stay reliable under 
 
 ```ts
 const edgar = {
-  role: "Senior Back-End Engineer | Cloud Architecture",
-  mission: "Build backend systems that stay fast, stable, and maintainable under real pressure",
-  strengths: [
-    "API design and backend architecture",
-    "Distributed systems and async messaging",
-    "Data modeling and performance optimization",
-    "Testing strategy, CI/CD, and observability",
-    "Technical leadership, mentorship, and team growth",
-    "Cloud infrastructure for backend scale and reliability"
-  ],
-  currentFocus: "High-throughput backend services, reliability engineering, and delivery speed"
+	role: 'Senior Back-End Engineer | Cloud Architecture',
+	mission: 'Build backend systems that stay fast, stable, and maintainable under real pressure',
+	strengths: [
+		'API design and backend architecture',
+		'Distributed systems and async messaging',
+		'Data modeling and performance optimization',
+		'Testing strategy, CI/CD, and observability',
+		'Technical leadership, mentorship, and team growth',
+		'Cloud infrastructure for backend scale and reliability',
+	],
+	currentFocus: 'High-throughput backend services, reliability engineering, and delivery speed',
 };
 ```
 
@@ -49,8 +47,8 @@ I design and ship backend-heavy products from architecture to production with a 
 
 <h3><code><span style="color: #38bdf8;">focus_map</span></code></h3>
 
-| <code><span style="color: #38bdf8;">build</span></code> | <code><span style="color: #f59e0b;">lead</span></code> |
-|---|---|
+| <code><span style="color: #38bdf8;">build</span></code>                                                                                     | <code><span style="color: #f59e0b;">lead</span></code>                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | API architecture (REST/GraphQL), service boundaries, distributed systems, async messaging, data modeling, performance tuning, observability | Mentoring engineers, clarifying complex topics, improving technical communication, building ownership, and raising engineering standards |
 
 <h3><code><span style="color: #f59e0b;">engineering_style</span></code></h3>
